@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "2",
+      "lastName": "kumar",
+      "email": "trhtrtr@gmail.com",
+      "mobile": 9090909,
+      "salary": 78898998
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "raushan",
+      "email": "raushan@gmail.com",
+      "password": "12345",
+      "mobile": "12345",
+      "id": 1
+    },
+    {
+      "fullname": "kumar",
+      "email": "raushan@gmail.com",
+      "password": "1234",
+      "mobile": "1234",
+      "id": 2
+    },
+    {
+      "fullname": "ram",
+      "email": "raushan@gmail.com",
+      "password": "9090",
+      "mobile": "12345",
+      "id": 3
+    },
+    {
+      "fullname": "shyam",
+      "email": "raushan@gmail.com",
+      "password": "122",
+      "mobile": "",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
